@@ -4,7 +4,7 @@ Tento C# program pravidelně stahuje meteorologická data ve formátu XML a ukl�
 
 ## Funkce
 
-- Každých **10 hodin** ukládá aktuální data ze senzorů 
+- Každou **1 hodinu** ukládá aktuální data ze senzorů 
 - Každý **1 den** ukládá denní informace.
   
 - Následně je ukládá do databáze udělanou přes SQLite

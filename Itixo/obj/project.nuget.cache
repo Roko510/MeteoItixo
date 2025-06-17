@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AGWC1w2ixg4=",
+  "dgSpecHash": "iqpUCdGAJ/0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\source\\repos\\Itixo\\Itixo\\Itixo.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Documents\\GitHub\\Meteo\\Itixo\\Itixo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

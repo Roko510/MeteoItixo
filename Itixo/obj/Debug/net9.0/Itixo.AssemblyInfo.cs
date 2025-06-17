@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Itixo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feb42edbcf648d7d572d625cb0a8e3f82fa381fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Itixo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Itixo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

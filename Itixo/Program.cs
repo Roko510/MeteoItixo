@@ -13,7 +13,7 @@ class Program
         timerWeather = new Timer(async _ =>
         {
             await WeatherSave();
-        }, null, TimeSpan.Zero, TimeSpan.FromHours(10));
+        }, null, TimeSpan.Zero, TimeSpan.FromHours(1));
 
         timerDay = new Timer(async _ =>
         {
