@@ -10,7 +10,7 @@ Tento C# program pravidelně stahuje meteorologická data ve formátu XML a ukl�
 - Následně je ukládá do databáze udělanou přes SQLite
 - V databázi jsou dvě tabulky jedna pro 10hodinové data jedna pro každodení data.
 - Pro zobrazení databáze jsem použil DBBrowser
--db file se nachází v **bin\Debug\net9.0**
+- db file a config file se nachází v **bin\Debug\net9.0**
   
 ## Použité NuGet
 - EF 
