@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\source\\repos\\Itixo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01FC9E2C-4E3D-4551-B7A0-D7C806F9775D}|Itixo\\Itixo.csproj|c:\\users\\marti\\source\\repos\\itixo\\itixo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FC9E2C-4E3D-4551-B7A0-D7C806F9775D}|Itixo\\Itixo.csproj|solutionrelative:itixo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FC9E2C-4E3D-4551-B7A0-D7C806F9775D}|Itixo\\Itixo.csproj|c:\\users\\marti\\source\\repos\\itixo\\itixo\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FC9E2C-4E3D-4551-B7A0-D7C806F9775D}|Itixo\\Itixo.csproj|solutionrelative:itixo\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FC9E2C-4E3D-4551-B7A0-D7C806F9775D}|Itixo\\Itixo.csproj|c:\\users\\marti\\source\\repos\\itixo\\itixo\\weathercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FC9E2C-4E3D-4551-B7A0-D7C806F9775D}|Itixo\\Itixo.csproj|solutionrelative:itixo\\weathercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherContext.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\Itixo\\Itixo\\WeatherContext.cs",
+              "RelativeDocumentMoniker": "Itixo\\WeatherContext.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\Itixo\\Itixo\\WeatherContext.cs",
+              "RelativeToolTip": "Itixo\\WeatherContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:10:49.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SensorData.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\Itixo\\Itixo\\SensorData.cs",
+              "RelativeDocumentMoniker": "Itixo\\SensorData.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\Itixo\\Itixo\\SensorData.cs",
+              "RelativeToolTip": "Itixo\\SensorData.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:10:05.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\Itixo\\Itixo\\Program.cs",
+              "RelativeDocumentMoniker": "Itixo\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\Itixo\\Itixo\\Program.cs",
+              "RelativeToolTip": "Itixo\\Program.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAuwIwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:26:47.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

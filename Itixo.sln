@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itixo", "Itixo\Itixo.csproj", "{01FC9E2C-4E3D-4551-B7A0-D7C806F9775D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Položky řešení", "Položky řešení", "{73E6DEBC-5D85-E032-7380-14D1E53616C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01FC9E2C-4E3D-4551-B7A0-D7C806F9775D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FC9E2C-4E3D-4551-B7A0-D7C806F9775D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FC9E2C-4E3D-4551-B7A0-D7C806F9775D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FC9E2C-4E3D-4551-B7A0-D7C806F9775D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68C14E8C-ECE5-47A7-B909-CFDAF7965FF0}
+	EndGlobalSection
+EndGlobal
